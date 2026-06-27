@@ -3,5 +3,6 @@
     <File Path="Directory.Build.props" />
     <File Path="Directory.Packages.props" />
   </Folder>
+  <Project Path="Connexus.AspNetCore/Connexus.AspNetCore.csproj" Id="deb1a5d1-fc5d-4548-9660-0f36f0af47d8" />
   <Project Path="Connexus/Connexus.csproj" />
 </Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/.build/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Connexus/Connexus.csproj" />
+</Solution>
